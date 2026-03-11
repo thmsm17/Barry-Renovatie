@@ -55,7 +55,7 @@ export default function Home() {
                 className="flex items-center gap-2 bg-primary text-primary-foreground px-5 py-2.5 rounded-full font-bold text-sm shadow-md shadow-primary/20 hover:bg-primary/90 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300"
               >
                 <Phone className="w-4 h-4" />
-                06 40296668
+                Bellen
               </a>
             </div>
 
