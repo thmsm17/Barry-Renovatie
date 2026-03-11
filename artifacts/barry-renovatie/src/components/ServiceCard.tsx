@@ -28,7 +28,7 @@ export function ServiceCard({ title, description, icon, imageSrc, delay = 0 }: S
         />
         <div className="absolute bottom-0 left-0 w-full h-1/2 bg-gradient-to-t from-card to-transparent z-20" />
         
-        <div className="absolute -bottom-6 right-6 w-12 h-12 rounded-xl bg-accent text-accent-foreground flex items-center justify-center shadow-lg transform group-hover:-translate-y-2 transition-transform duration-300 z-30">
+        <div className="absolute bottom-4 right-6 w-12 h-12 rounded-xl bg-accent text-accent-foreground flex items-center justify-center shadow-lg transform group-hover:-translate-y-2 transition-transform duration-300 z-30">
           {icon}
         </div>
       </div>
