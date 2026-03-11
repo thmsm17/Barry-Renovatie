@@ -1,0 +1,24 @@
+packages:
+  "framer-motion": "For premium scroll reveal animations and smooth transitions"
+  "lucide-react": "For beautiful consistent iconography throughout the site"
+
+images:
+  - path: "artifacts/barry-renovatie/public/images/hero-bg.png"
+    description: "A beautifully renovated, luxurious modern bathroom with warm lighting, deep navy blue cabinets, brushed brass fixtures, and pristine tiling. High-end interior design photography."
+    aspect_ratio: "16:9"
+  - path: "artifacts/barry-renovatie/public/images/service-bathroom.png"
+    description: "Close-up of a stunning new modern shower installation with elegant tile work and a sleek glass partition. Warm, inviting light."
+    aspect_ratio: "4:3"
+  - path: "artifacts/barry-renovatie/public/images/service-livingroom.png"
+    description: "A beautifully finished living room with fresh plastered walls, warm oak hardwood flooring, and soft natural sunlight streaming through a window."
+    aspect_ratio: "4:3"
+  - path: "artifacts/barry-renovatie/public/images/service-tools.png"
+    description: "Professional high-quality construction tools laid out neatly on wooden planks. Professional, trustworthy, and precise."
+    aspect_ratio: "4:3"
+  - path: "artifacts/barry-renovatie/public/images/service-plumbing.png"
+    description: "Clean, professional copper pipe plumbing installation against a neutral wall. Demonstrates craftsmanship and precision."
+    aspect_ratio: "4:3"
+
+notes:
+  - This is a static, one-page landing site for a Dutch renovation business.
+  - No backend API interactions are necessary.
