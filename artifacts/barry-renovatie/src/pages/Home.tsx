@@ -122,9 +122,9 @@ export default function Home() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.1 }}
-              className="text-5xl sm:text-6xl lg:text-7xl font-display font-bold text-white leading-tight mb-6 text-balance"
+              className="text-4xl sm:text-6xl lg:text-7xl font-display font-bold text-white leading-tight mb-6 text-balance"
             >
-              Uw specialist voor <span className="text-accent relative whitespace-nowrap">
+              Uw specialist voor <span className="text-accent relative">
                 badkamer renovaties
                 <svg className="absolute -bottom-2 left-0 w-full h-3 text-accent/50" viewBox="0 0 100 10" preserveAspectRatio="none">
                   <path d="M0 5 Q 50 10 100 5" stroke="currentColor" strokeWidth="3" fill="transparent" />
