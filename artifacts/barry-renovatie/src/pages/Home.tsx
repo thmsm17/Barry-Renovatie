@@ -174,7 +174,7 @@ export default function Home() {
                 <CheckCircle className="w-6 h-6 text-emerald-600" />
               </div>
               <div>
-                <h3 className="font-bold text-foreground">Alles Volgens Afspraak</h3>
+                <h3 className="font-bold text-foreground">Alles volgens afspraak</h3>
                 <p className="text-sm text-muted-foreground">Betrouwbaar & stipt</p>
               </div>
             </div>
